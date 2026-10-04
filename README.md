@@ -17,7 +17,7 @@
 
 Rather than functioning as a black-box autonomous policing tool, Suraksha AI acts strictly as **human-in-the-loop decision-support software**. It connects fragmented citizen complaints, extracts multi-modal entities, detects spatial-temporal pattern signals, constructs interactive Knowledge Graphs, and powers source-backed RAG copilots with exact paragraph-level document citations.
 
-----
+-----
 
 ## 🚀 Key Modules & Capabilities
 
